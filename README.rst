@@ -1,10 +1,12 @@
-Use like so...
+Use
 ==========================
-from applereceiptparser import parse_receipt
-from pprint import pprint
+Use like so::
 
-receipt = parse_receipt( open("testreceipt.txt").read() )
-pprint( receipt )
+  from applereceiptparser import parse_receipt
+  from pprint import pprint
+
+  receipt = parse_receipt( open("testreceipt.txt").read() )
+  pprint( receipt )
 
 Credits
 -------
