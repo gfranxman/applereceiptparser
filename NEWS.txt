@@ -1,0 +1,10 @@
+News
+====
+
+0.1
+---
+
+*Release date: 09-Sept-2014*
+
+* Initial release.    Works with the iOS receipts that I have seen.
+
